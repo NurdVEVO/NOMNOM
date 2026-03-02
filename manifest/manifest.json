@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 70
+    "downloadCount": 71
   },
   {
     "id": "bepinex-soundmod",
@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 580
+    "downloadCount": 581
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 197
+    "downloadCount": 199
   },
   {
     "id": "galaxy2_voice",
@@ -1089,7 +1089,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 23
+    "downloadCount": 24
   },
   {
     "id": "MFDVideoPlayer",
@@ -1239,7 +1239,7 @@
         ]
       }
     ],
-    "downloadCount": 3573
+    "downloadCount": 3581
   },
   {
     "id": "no-autopilot-mod",
@@ -1832,7 +1832,7 @@
         ]
       }
     ],
-    "downloadCount": 998
+    "downloadCount": 1000
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2015,7 +2015,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116591
+    "downloadCount": 116592
   },
   {
     "id": "skyeye_voice",
@@ -2081,7 +2081,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 49
+    "downloadCount": 51
   },
   {
     "id": "UnitCopyPaste",
@@ -2121,7 +2121,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 18
+    "downloadCount": 19
   },
   {
     "id": "VehicleControl",
