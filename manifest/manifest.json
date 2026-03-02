@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 248
+    "downloadCount": 250
   },
   {
     "id": "AircraftWaypoints",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 200
+    "downloadCount": 202
   },
   {
     "id": "galaxy2_voice",
@@ -1239,7 +1239,7 @@
         ]
       }
     ],
-    "downloadCount": 3590
+    "downloadCount": 3593
   },
   {
     "id": "no-autopilot-mod",
@@ -1464,7 +1464,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2532
+    "downloadCount": 2533
   },
   {
     "id": "NOBlackBox",
@@ -1643,7 +1643,7 @@
         ]
       }
     ],
-    "downloadCount": 439
+    "downloadCount": 440
   },
   {
     "id": "NOLiveryPlus",
@@ -1883,7 +1883,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 436
+    "downloadCount": 437
   },
   {
     "id": "pixy_voice",
@@ -1982,7 +1982,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 133
+    "downloadCount": 135
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2015,7 +2015,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116594
+    "downloadCount": 116596
   },
   {
     "id": "skyeye_voice",
@@ -2121,7 +2121,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 19
+    "downloadCount": 20
   },
   {
     "id": "VehicleControl",
@@ -2152,7 +2152,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 358
+    "downloadCount": 359
   },
   {
     "id": "WeatherController",
@@ -2183,7 +2183,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 38
+    "downloadCount": 39
   },
   {
     "id": "WSOYappinator",
@@ -2266,6 +2266,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 291
+    "downloadCount": 293
   }
 ]
