@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 245
+    "downloadCount": 246
   },
   {
     "id": "AircraftWaypoints",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 648
+    "downloadCount": 653
   },
   {
     "id": "LiveryManager",
@@ -1239,7 +1239,7 @@
         ]
       }
     ],
-    "downloadCount": 3581
+    "downloadCount": 3586
   },
   {
     "id": "no-autopilot-mod",
@@ -1464,7 +1464,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2530
+    "downloadCount": 2531
   },
   {
     "id": "NOBlackBox",
@@ -1832,7 +1832,7 @@
         ]
       }
     ],
-    "downloadCount": 1000
+    "downloadCount": 1004
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
