@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 3927
+    "downloadCount": 3928
   },
   {
     "id": "no-autopilot-mod",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 0
+    "downloadCount": 1
   },
   {
     "id": "RepairProgress",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116764
+    "downloadCount": 116766
   },
   {
     "id": "skyeye_voice",
@@ -2238,7 +2238,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 66
+    "downloadCount": 67
   },
   {
     "id": "UnitCopyPaste",
@@ -2278,7 +2278,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 38
+    "downloadCount": 39
   },
   {
     "id": "VehicleControl",
