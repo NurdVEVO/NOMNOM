@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 330
+    "downloadCount": 331
   },
   {
     "id": "AircraftWaypoints",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 368
+    "downloadCount": 371
   },
   {
     "id": "galaxy2_voice",
@@ -1161,7 +1161,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 118
+    "downloadCount": 120
   },
   {
     "id": "NO_Tactitools",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 3992
+    "downloadCount": 3993
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2832
+    "downloadCount": 2834
   },
   {
     "id": "NOBlackBox",
@@ -1593,7 +1593,7 @@
         ]
       }
     ],
-    "downloadCount": 2033
+    "downloadCount": 2036
   },
   {
     "id": "NOCursorOverride",
@@ -1958,7 +1958,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 478
+    "downloadCount": 479
   },
   {
     "id": "NuclearVOIP",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 51
+    "downloadCount": 53
   },
   {
     "id": "RepairProgress",
@@ -2139,7 +2139,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 210
+    "downloadCount": 211
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2309,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 473
+    "downloadCount": 474
   },
   {
     "id": "WeatherController",
@@ -2340,7 +2340,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 75
+    "downloadCount": 76
   },
   {
     "id": "WSOYappinator",
