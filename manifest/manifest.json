@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 123
+    "downloadCount": 125
   },
   {
     "id": "AtomicFramework",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 740
+    "downloadCount": 741
   },
   {
     "id": "LiveryManager",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116817
+    "downloadCount": 116819
   },
   {
     "id": "skyeye_voice",
