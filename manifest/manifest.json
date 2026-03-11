@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 474
+    "downloadCount": 475
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 788
+    "downloadCount": 789
   },
   {
     "id": "LiveryManager",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4161
+    "downloadCount": 4162
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2994
+    "downloadCount": 2996
   },
   {
     "id": "NOBlackBox",
@@ -1907,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1228
+    "downloadCount": 1231
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1958,7 +1958,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 517
+    "downloadCount": 518
   },
   {
     "id": "NuclearVOIP",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 183
+    "downloadCount": 185
   },
   {
     "id": "RepairProgress",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116937
+    "downloadCount": 116938
   },
   {
     "id": "skyeye_voice",
@@ -2348,7 +2348,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 549
+    "downloadCount": 550
   },
   {
     "id": "WeatherController",
@@ -2379,7 +2379,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 103
+    "downloadCount": 104
   },
   {
     "id": "WSOYappinator",
