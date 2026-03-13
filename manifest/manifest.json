@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 407
+    "downloadCount": 408
   },
   {
     "id": "AircraftWaypoints",
@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 725
+    "downloadCount": 726
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 513
+    "downloadCount": 514
   },
   {
     "id": "galaxy2_voice",
@@ -1434,7 +1434,7 @@
         ]
       }
     ],
-    "downloadCount": 4247
+    "downloadCount": 4248
   },
   {
     "id": "no-autopilot-mod",
@@ -2093,7 +2093,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 533
+    "downloadCount": 534
   },
   {
     "id": "NuclearVOIP",
@@ -2243,7 +2243,7 @@
         ]
       }
     ],
-    "downloadCount": 239
+    "downloadCount": 241
   },
   {
     "id": "RepairProgress",
@@ -2514,7 +2514,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 114
+    "downloadCount": 115
   },
   {
     "id": "WSOYappinator",
