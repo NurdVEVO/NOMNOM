@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 419
+    "downloadCount": 420
   },
   {
     "id": "AircraftWaypoints",
@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 731
+    "downloadCount": 732
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 4305
+    "downloadCount": 4306
   },
   {
     "id": "no-autopilot-mod",
@@ -2106,7 +2106,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3106
+    "downloadCount": 3107
   },
   {
     "id": "NOBlackBox",
@@ -2525,7 +2525,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 547
+    "downloadCount": 548
   },
   {
     "id": "NuclearVOIP",
@@ -2675,7 +2675,7 @@
         ]
       }
     ],
-    "downloadCount": 291
+    "downloadCount": 293
   },
   {
     "id": "RepairProgress",
@@ -2915,7 +2915,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 607
+    "downloadCount": 609
   },
   {
     "id": "WeatherController",
