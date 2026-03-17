@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 427
+    "downloadCount": 428
   },
   {
     "id": "AircraftWaypoints",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 560
+    "downloadCount": 561
   },
   {
     "id": "galaxy2_voice",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 4351
+    "downloadCount": 4352
   },
   {
     "id": "no-autopilot-mod",
@@ -2474,7 +2474,7 @@
         ]
       }
     ],
-    "downloadCount": 1292
+    "downloadCount": 1293
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2706,7 +2706,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 308
+    "downloadCount": 309
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2814,7 +2814,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 97
+    "downloadCount": 98
   },
   {
     "id": "ThirdFaction",
@@ -2862,7 +2862,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 73
+    "downloadCount": 74
   },
   {
     "id": "UnitCopyPaste",
