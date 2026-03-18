@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 4379
+    "downloadCount": 4380
   },
   {
     "id": "no-autopilot-mod",
@@ -2106,7 +2106,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3163
+    "downloadCount": 3164
   },
   {
     "id": "NOBlackBox",
@@ -2474,7 +2474,7 @@
         ]
       }
     ],
-    "downloadCount": 1308
+    "downloadCount": 1309
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2706,7 +2706,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 311
+    "downloadCount": 312
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2739,7 +2739,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117056
+    "downloadCount": 117057
   },
   {
     "id": "skyeye_voice",
@@ -2814,7 +2814,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 103
+    "downloadCount": 104
   },
   {
     "id": "ThirdFaction",
