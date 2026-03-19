@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 585
+    "downloadCount": 586
   },
   {
     "id": "galaxy2_voice",
@@ -2001,7 +2001,7 @@
         ]
       }
     ],
-    "downloadCount": 4382
+    "downloadCount": 4385
   },
   {
     "id": "no-autopilot-mod",
@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3167
+    "downloadCount": 3170
   },
   {
     "id": "NOBlackBox",
@@ -2295,7 +2295,7 @@
         ]
       }
     ],
-    "downloadCount": 2137
+    "downloadCount": 2138
   },
   {
     "id": "NOCursorOverride",
@@ -2381,7 +2381,7 @@
         ]
       }
     ],
-    "downloadCount": 170
+    "downloadCount": 171
   },
   {
     "id": "NOFrameLimiter",
@@ -2609,7 +2609,7 @@
         ]
       }
     ],
-    "downloadCount": 1311
+    "downloadCount": 1313
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2810,7 +2810,7 @@
         ]
       }
     ],
-    "downloadCount": 342
+    "downloadCount": 347
   },
   {
     "id": "RepairProgress",
@@ -2841,7 +2841,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 313
+    "downloadCount": 314
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2874,7 +2874,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117057
+    "downloadCount": 117059
   },
   {
     "id": "skyeye_voice",
@@ -2997,7 +2997,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 78
+    "downloadCount": 79
   },
   {
     "id": "UnitCopyPaste",
@@ -3132,7 +3132,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 865
+    "downloadCount": 866
   },
   {
     "id": "YawOnMouse",
