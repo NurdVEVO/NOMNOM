@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 754
+    "downloadCount": 755
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 605
+    "downloadCount": 606
   },
   {
     "id": "galaxy2_voice",
@@ -2001,7 +2001,7 @@
         ]
       }
     ],
-    "downloadCount": 4430
+    "downloadCount": 4431
   },
   {
     "id": "no-autopilot-mod",
@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3208
+    "downloadCount": 3210
   },
   {
     "id": "NOBlackBox",
@@ -2810,7 +2810,7 @@
         ]
       }
     ],
-    "downloadCount": 394
+    "downloadCount": 395
   },
   {
     "id": "RepairProgress",
@@ -3015,7 +3015,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 88
+    "downloadCount": 90
   },
   {
     "id": "UnitCopyPaste",
