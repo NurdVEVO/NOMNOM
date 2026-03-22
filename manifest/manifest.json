@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 163
+    "downloadCount": 174
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 163
+    "downloadCount": 174
   },
   {
     "id": "FrontlineMap",
@@ -295,7 +295,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 617
+    "downloadCount": 618
   },
   {
     "id": "galaxy2_voice",
@@ -463,7 +463,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 878
+    "downloadCount": 879
   },
   {
     "id": "LiveryManager",
@@ -2711,7 +2711,7 @@
         ]
       }
     ],
-    "downloadCount": 1347
+    "downloadCount": 1348
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2976,7 +2976,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117103
+    "downloadCount": 117105
   },
   {
     "id": "skyeye_voice",
@@ -3197,7 +3197,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 669
+    "downloadCount": 671
   },
   {
     "id": "WeatherController",
