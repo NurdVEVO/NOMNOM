@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 174
+    "downloadCount": 178
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 174
+    "downloadCount": 178
   },
   {
     "id": "FrontlineMap",
@@ -295,7 +295,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 618
+    "downloadCount": 619
   },
   {
     "id": "galaxy2_voice",
@@ -2103,7 +2103,7 @@
         ]
       }
     ],
-    "downloadCount": 4457
+    "downloadCount": 4458
   },
   {
     "id": "no-autopilot-mod",
@@ -2711,7 +2711,7 @@
         ]
       }
     ],
-    "downloadCount": 1348
+    "downloadCount": 1349
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2912,7 +2912,7 @@
         ]
       }
     ],
-    "downloadCount": 425
+    "downloadCount": 427
   },
   {
     "id": "RepairProgress",
@@ -3126,7 +3126,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 93
+    "downloadCount": 94
   },
   {
     "id": "UnitCopyPaste",
