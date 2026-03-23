@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 213
+    "downloadCount": 215
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 213
+    "downloadCount": 215
   },
   {
     "id": "FrontlineMap",
@@ -463,7 +463,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 880
+    "downloadCount": 881
   },
   {
     "id": "LiveryManager",
@@ -1965,7 +1965,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 207
+    "downloadCount": 208
   },
   {
     "id": "NO_Tactitools",
@@ -2103,7 +2103,7 @@
         ]
       }
     ],
-    "downloadCount": 4461
+    "downloadCount": 4462
   },
   {
     "id": "no-autopilot-mod",
@@ -2343,7 +2343,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3245
+    "downloadCount": 3246
   },
   {
     "id": "NOBlackBox",
@@ -3051,7 +3051,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 113
+    "downloadCount": 114
   },
   {
     "id": "ThirdFaction",
@@ -3197,7 +3197,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 674
+    "downloadCount": 675
   },
   {
     "id": "WeatherController",
