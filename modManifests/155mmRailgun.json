@@ -1,0 +1,41 @@
+{
+  "id": "155mmRailgun",
+  "displayName": "155mm Railgun",
+  "description": "A forward mounted fixed Railgun firing 155mm slugs at 2380m/s every 2.5 seconds. Each slug fired by the railgun has the same kinetic energy as a school bus travelling at 500km/h.",
+  "tags": [
+    "mod",
+    "Weapon"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nikkorap/NOBlueprinter-155mmRailgun/blob/main/README.md"
+    },
+    {
+      "name": "2082 discord",
+      "url": "https://discord.gg/qqMwyr2qxR"
+    }
+  ],
+  "authors": [
+    "nikkorap"
+  ],
+  "githubOwner": "nikkorap",
+  "githubRepoName": "NOBlueprinter-155mmRailgun",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "155mmRailgun_1.0.0.nobp",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-155mmRailgun/releases/download/1.0.0/155mmRailgun_1.0.0.nobp",
+      "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.16"
+      }
+    }
+  ],
+  "downloadCount": 0
+}
