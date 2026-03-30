@@ -1,5 +1,46 @@
 [
   {
+    "id": "155mmRailgun",
+    "displayName": "155mm Railgun",
+    "description": "A forward mounted fixed Railgun firing 155mm slugs at 2380m/s every 2.5 seconds. Each slug fired by the railgun has the same kinetic energy as a school bus travelling at 500km/h.",
+    "tags": [
+      "mod",
+      "Weapon"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NOBlueprinter-155mmRailgun/blob/main/README.md"
+      },
+      {
+        "name": "2082 discord",
+        "url": "https://discord.gg/qqMwyr2qxR"
+      }
+    ],
+    "authors": [
+      "nikkorap"
+    ],
+    "githubOwner": "nikkorap",
+    "githubRepoName": "NOBlueprinter-155mmRailgun",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "155mmRailgun_1.0.0.nobp",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-155mmRailgun/releases/download/1.0.0/155mmRailgun_1.0.0.nobp",
+        "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.16"
+        }
+      }
+    ],
+    "downloadCount": 24
+  },
+  {
     "id": "AIAircraftLimit",
     "displayName": "AI Aircraft Limit",
     "description": "Increase the maximum active AI aircraft per faction. Extends mission editor slider up to 128 and optionally overrides the limit at runtime.",
@@ -210,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 1057
+    "downloadCount": 1060
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -264,7 +305,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1057
+    "downloadCount": 1060
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -337,7 +378,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 873
+    "downloadCount": 875
   },
   {
     "id": "galaxy2_voice",
@@ -2007,7 +2048,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 335
+    "downloadCount": 336
   },
   {
     "id": "NO_Tactitools",
@@ -2145,7 +2186,7 @@
         ]
       }
     ],
-    "downloadCount": 4826
+    "downloadCount": 4827
   },
   {
     "id": "no-autopilot-mod",
@@ -2385,7 +2426,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3573
+    "downloadCount": 3574
   },
   {
     "id": "NOBlackBox",
@@ -2439,7 +2480,7 @@
         ]
       }
     ],
-    "downloadCount": 2309
+    "downloadCount": 2310
   },
   {
     "id": "NOCursorOverride",
@@ -2804,7 +2845,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 643
+    "downloadCount": 645
   },
   {
     "id": "NuclearVOIP",
@@ -3018,7 +3059,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117457
+    "downloadCount": 117461
   },
   {
     "id": "skyeye_voice",
@@ -3248,7 +3289,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 832
+    "downloadCount": 834
   },
   {
     "id": "WeatherController",
@@ -3312,7 +3353,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1007
+    "downloadCount": 1008
   },
   {
     "id": "YawOnMouse",
@@ -3362,6 +3403,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 355
+    "downloadCount": 356
   }
 ]
