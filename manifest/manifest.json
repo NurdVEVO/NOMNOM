@@ -5,7 +5,8 @@
     "description": "A forward mounted fixed Railgun firing 155mm slugs at 2380m/s every 2.5 seconds. Each slug fired by the railgun has the same kinetic energy as a school bus travelling at 500km/h.",
     "tags": [
       "mod",
-      "Weapon"
+      "Weapon",
+      "blueprinter"
     ],
     "urls": [
       {
@@ -34,11 +35,11 @@
         "hash": "sha256:5d0766e9cf3ef572d741df979b714b9405736e9af7fa94075e694e84a16a212a",
         "extends": {
           "id": "com.nikkorap.blueprinter",
-          "version": "1.8.16"
+          "version": "1.8.17"
         }
       }
     ],
-    "downloadCount": 129
+    "downloadCount": 136
   },
   {
     "id": "AIAircraftLimit",
@@ -71,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 676
+    "downloadCount": 678
   },
   {
     "id": "AircraftWaypoints",
@@ -176,7 +177,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 952
+    "downloadCount": 953
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -217,7 +218,9 @@
     "description": "A light combat drone with superb kinematics. Features a custom model with unique flight performance and destruction, a custom MFD and damage display, 7 liveries, no G-loc, and self-destruction when the eject key is pressed.",
     "tags": [
       "mod",
-      "aircraft"
+      "aircraft",
+      "blueprinter",
+      "p2082"
     ],
     "urls": [
       {
@@ -247,11 +250,11 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
         "extends": {
           "id": "com.nikkorap.blueprinter",
-          "version": "1.8.16"
+          "version": "1.8.17"
         }
       }
     ],
-    "downloadCount": 1592
+    "downloadCount": 1710
   },
   {
     "id": "CargoHookFree",
@@ -283,14 +286,15 @@
         "hash": null
       }
     ],
-    "downloadCount": 49
+    "downloadCount": 51
   },
   {
     "id": "com.nikkorap.blueprinter",
     "displayName": "Blueprinter",
     "description": "Core framework required for mods utilising blueprinter.",
     "tags": [
-      "mod"
+      "mod",
+      "blueprinter"
     ],
     "urls": [
       {
@@ -337,7 +341,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1592
+    "downloadCount": 1710
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -370,7 +374,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 222
+    "downloadCount": 225
   },
   {
     "id": "FrontlineMap",
@@ -410,7 +414,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 995
+    "downloadCount": 1000
   },
   {
     "id": "galaxy2_voice",
@@ -515,6 +519,59 @@
     "downloadCount": 0
   },
   {
+    "id": "kar",
+    "displayName": "KAR",
+    "description": " A comprehensive driveable ground vehicles mod, adding over 6 vehicles, ~50 weapons, and new mechanics.",
+    "tags": [
+      "mod",
+      "vehicle",
+      "blueprinter",
+      "p2082"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/nikkorap/NOBlueprinter-kar/blob/main/README.md"
+      },
+      {
+        "name": "2082 discord",
+        "url": "https://discord.gg/qqMwyr2qxR"
+      }
+    ],
+    "authors": [
+      "nikkorap",
+      "minecracktyler",
+      "draken",
+      "combat",
+      "offiry",
+      "medusa",
+      "senhara",
+      "raikan",
+      "error",
+      "javiairplane",
+      "cosmiccactus"
+    ],
+    "githubOwner": "nikkorap",
+    "githubRepoName": "NOBlueprinter-kar",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "Kar_1.0.0.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-kar/releases/download/1.0.0/Kar_1.0.0.dll",
+        "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.17"
+        }
+      }
+    ],
+    "downloadCount": 173
+  },
+  {
     "id": "klawshout_voice",
     "displayName": "KlawShout",
     "description": "[Voice Pack] High-energy personality for intense combat.",
@@ -578,7 +635,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1159
+    "downloadCount": 1161
   },
   {
     "id": "LiveryManager",
@@ -1463,7 +1520,7 @@
         ]
       }
     ],
-    "downloadCount": 281
+    "downloadCount": 282
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -2146,7 +2203,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 380
+    "downloadCount": 381
   },
   {
     "id": "NO_Tactitools",
@@ -2284,7 +2341,7 @@
         ]
       }
     ],
-    "downloadCount": 4984
+    "downloadCount": 4988
   },
   {
     "id": "no-autopilot-mod",
@@ -2524,7 +2581,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3720
+    "downloadCount": 3724
   },
   {
     "id": "NOBlackBox",
@@ -2578,7 +2635,7 @@
         ]
       }
     ],
-    "downloadCount": 2353
+    "downloadCount": 2354
   },
   {
     "id": "NOCursorOverride",
@@ -2703,7 +2760,7 @@
         ]
       }
     ],
-    "downloadCount": 700
+    "downloadCount": 701
   },
   {
     "id": "NOLiveryPlus",
@@ -2778,7 +2835,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 241
+    "downloadCount": 242
   },
   {
     "id": "NOX",
@@ -2892,7 +2949,7 @@
         ]
       }
     ],
-    "downloadCount": 1575
+    "downloadCount": 1581
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3062,7 +3119,8 @@
     "description": "A major overhaul mod for Nuclear Option. QoL adds custom weapons, units, features, plus hundreds of fixes and parity adjustments.",
     "tags": [
       "mod",
-      "QoL"
+      "QoL",
+      "p2082"
     ],
     "urls": [
       {
@@ -3093,7 +3151,7 @@
         ]
       }
     ],
-    "downloadCount": 932
+    "downloadCount": 934
   },
   {
     "id": "RepairProgress",
@@ -3124,7 +3182,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 546
+    "downloadCount": 547
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3157,7 +3215,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117588
+    "downloadCount": 117593
   },
   {
     "id": "skyeye_voice",
@@ -3316,7 +3374,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 213
+    "downloadCount": 215
   },
   {
     "id": "UnitCopyPaste",
@@ -3387,7 +3445,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 945
+    "downloadCount": 949
   },
   {
     "id": "WeatherController",
@@ -3418,7 +3476,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 220
+    "downloadCount": 221
   },
   {
     "id": "WSOYappinator",
