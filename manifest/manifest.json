@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 839
+    "downloadCount": 840
   },
   {
     "id": "AircraftWaypoints",
@@ -254,7 +254,7 @@
         }
       }
     ],
-    "downloadCount": 3677
+    "downloadCount": 3699
   },
   {
     "id": "bote",
@@ -328,7 +328,7 @@
         }
       }
     ],
-    "downloadCount": 1696
+    "downloadCount": 1733
   },
   {
     "id": "CargoHookFree",
@@ -415,7 +415,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 3677
+    "downloadCount": 3699
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -506,7 +506,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 1370
+    "downloadCount": 1372
   },
   {
     "id": "galaxy2_voice",
@@ -661,7 +661,7 @@
         }
       }
     ],
-    "downloadCount": 2090
+    "downloadCount": 2111
   },
   {
     "id": "klawshout_voice",
@@ -727,7 +727,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1340
+    "downloadCount": 1341
   },
   {
     "id": "LiveryManager",
@@ -2433,7 +2433,7 @@
         ]
       }
     ],
-    "downloadCount": 5287
+    "downloadCount": 5294
   },
   {
     "id": "no-autopilot-mod",
@@ -2673,7 +2673,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3990
+    "downloadCount": 3994
   },
   {
     "id": "NOBlackBox",
@@ -3056,7 +3056,7 @@
         ]
       }
     ],
-    "downloadCount": 1758
+    "downloadCount": 1760
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3107,7 +3107,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 756
+    "downloadCount": 757
   },
   {
     "id": "NuclearVOIP",
@@ -3243,12 +3243,27 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "qol_1.1.6.3b2.dll",
+        "version": "1.1.6.4",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.1.6.3.2/qol_1.1.6.3b2.dll",
+        "hash": "",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
         "fileName": "qol_1.1.6.3b1.zip",
         "version": "1.1.6.3",
         "category": "release",
         "type": "plugin",
         "gameVersion": "0.32",
-        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.1.6.3/qol_1.1.6.3b1.zip",
+        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.1.6.3.1/qol_1.1.6.3b1.zip",
         "hash": "",
         "dependencies": [
           {
@@ -3258,7 +3273,7 @@
         ]
       }
     ],
-    "downloadCount": 1329
+    "downloadCount": 1331
   },
   {
     "id": "RepairProgress",
@@ -3289,7 +3304,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 675
+    "downloadCount": 676
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3322,7 +3337,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117790
+    "downloadCount": 117791
   },
   {
     "id": "skyeye_voice",
@@ -3521,7 +3536,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 120
+    "downloadCount": 122
   },
   {
     "id": "VehicleControl",
@@ -3552,7 +3567,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1063
+    "downloadCount": 1064
   },
   {
     "id": "WeatherController",
@@ -3583,7 +3598,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 272
+    "downloadCount": 273
   },
   {
     "id": "WSOYappinator",
@@ -3616,7 +3631,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1119
+    "downloadCount": 1120
   },
   {
     "id": "YawOnMouse",
