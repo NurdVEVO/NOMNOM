@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "ChicaneWingDelete-1.4.1.zip",
+      "version": "1.4.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/ChicaneWingDelete/releases/download/v1.4.1/ChicaneWingDelete-1.4.1.zip",
+      "hash": "sha256:bba12fcc8ae6703a9f43da93dedb886b602c4d9b97133812c689818dff991cb7"
+    },
+    {
       "fileName": "ChicaneWingDelete-1.4.0.zip",
       "version": "1.4.0",
       "category": "release",
@@ -30,5 +39,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 276
+  "downloadCount": 279
 }
