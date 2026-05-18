@@ -2,7 +2,7 @@
   "id": "NVGConfig",
   "displayName": "NVG Config",
   "description": "Improved NVG for Nuclear Option. Provides both built in and customizable NBG filters.",
-  "tags": ["QoL", "Flavor"],
+  "tags": ["QoL", "mod", "visual", "client side"],
   "authors": ["Domiyaaa"],
   "urls": [
     {
