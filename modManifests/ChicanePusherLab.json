@@ -13,7 +13,7 @@
     },
     {
       "name": "release",
-      "url": "https://github.com/Rendresen/ChicanePusherLab/releases/tag/v1.0.0"
+      "url": "https://github.com/Rendresen/ChicanePusherLab/releases/tag/v1.0.3"
     }
   ],
   "authors": [
@@ -24,13 +24,13 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "ChicanePusherLab-1.0.0.zip",
-      "version": "1.0.0",
+      "fileName": "ChicanePusherLab-1.0.3.zip",
+      "version": "1.0.3",
       "category": "Release",
       "type": "plugin",
       "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/Rendresen/ChicanePusherLab/releases/download/v1.0.0/ChicanePusherLab-1.0.0.zip",
-      "hash": "sha256:0ae17632286dd787648563de4c9665736af7347cef7f6d57bf747c7a0fddd7b2",
+      "downloadUrl": "https://github.com/Rendresen/ChicanePusherLab/releases/download/v1.0.3/ChicanePusherLab-1.0.3.zip",
+      "hash": "sha256:eb5a03b279285eec44b0e83d1c1ec892d6be8d3a88a5b4d11423cffabf902b31",
       "dependencies": []
     }
   ]
