@@ -137,6 +137,14 @@ url : the actual URL
 - This is the category if the release e.g. Release or Pre-Release
 - This is to allow users to optionally download a perhaps Unstable Pre-Release, or get the latest stable version.
 
+### hash
+
+- REQUIRED
+- Format: string
+- This is the file hash of the github release file the downloadUrl is pointing at
+- It can be acquired from the github release's page, looks something like "sha256:very long hex string"
+- please include the full value, use the "copy to clipboard" button thats right beside it, and paste it into your manifest
+
 ### extends
 
 - REQUIRED IF
