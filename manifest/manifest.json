@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 3940
+    "downloadCount": 3944
   },
   {
     "id": "AB-4X mod",
@@ -72,7 +72,7 @@
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
       }
     ],
-    "downloadCount": 2629
+    "downloadCount": 2632
   },
   {
     "id": "ActiveDecoy",
@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 1881
+    "downloadCount": 1884
   },
   {
     "id": "AIAircraftLimit",
@@ -138,7 +138,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4038
+    "downloadCount": 4041
   },
   {
     "id": "AircraftWaypoints",
@@ -170,7 +170,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 1777
+    "downloadCount": 1778
   },
   {
     "id": "anomie.advancedcombatoverlay",
@@ -245,7 +245,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 415
+    "downloadCount": 417
   },
   {
     "id": "anomie.counterbatteryscanner",
@@ -278,7 +278,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 181
+    "downloadCount": 182
   },
   {
     "id": "anomie.dynamicmapmod",
@@ -311,7 +311,7 @@
         "category": "Pre-Release"
       }
     ],
-    "downloadCount": 123
+    "downloadCount": 125
   },
   {
     "id": "anomie.rearmstatushud",
@@ -386,7 +386,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 41
+    "downloadCount": 42
   },
   {
     "id": "aryx.f16m",
@@ -624,7 +624,7 @@
         }
       }
     ],
-    "downloadCount": 33109
+    "downloadCount": 33142
   },
   {
     "id": "aryx.mc260",
@@ -797,7 +797,7 @@
         }
       }
     ],
-    "downloadCount": 28203
+    "downloadCount": 28227
   },
   {
     "id": "aryx.mig15",
@@ -879,7 +879,7 @@
         }
       }
     ],
-    "downloadCount": 13690
+    "downloadCount": 13708
   },
   {
     "id": "aryx.rah72",
@@ -987,7 +987,7 @@
         }
       }
     ],
-    "downloadCount": 12104
+    "downloadCount": 12131
   },
   {
     "id": "AtomicFramework",
@@ -1060,7 +1060,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2632
+    "downloadCount": 2633
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -1126,7 +1126,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 3140
+    "downloadCount": 3145
   },
   {
     "id": "blueprinter.kestrel",
@@ -1170,7 +1170,7 @@
         }
       }
     ],
-    "downloadCount": 16573
+    "downloadCount": 16581
   },
   {
     "id": "blueprinter.ternion",
@@ -1224,7 +1224,7 @@
         }
       }
     ],
-    "downloadCount": 17229
+    "downloadCount": 17267
   },
   {
     "id": "bote",
@@ -1376,7 +1376,7 @@
         }
       }
     ],
-    "downloadCount": 19652
+    "downloadCount": 19690
   },
   {
     "id": "CameraPresets",
@@ -1450,7 +1450,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1657
+    "downloadCount": 1658
   },
   {
     "id": "ChicanePusherLab",
@@ -1587,7 +1587,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 799
+    "downloadCount": 800
   },
   {
     "id": "ChicaneWingDelete",
@@ -1648,7 +1648,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 966
+    "downloadCount": 967
   },
   {
     "id": "ChimeraTailWeld",
@@ -1739,7 +1739,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 1600
+    "downloadCount": 1603
   },
   {
     "id": "Com.Hellcat92.ChangePlayerName",
@@ -1821,7 +1821,7 @@
         "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
       }
     ],
-    "downloadCount": 492
+    "downloadCount": 494
   },
   {
     "id": "Com.Hellcat92.TargetGridRefHUD",
@@ -1956,7 +1956,7 @@
         ]
       }
     ],
-    "downloadCount": 2084
+    "downloadCount": 2087
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -2029,7 +2029,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 36675
+    "downloadCount": 36704
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -2139,7 +2139,7 @@
         "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
       }
     ],
-    "downloadCount": 1657
+    "downloadCount": 1658
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -2244,7 +2244,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 248
+    "downloadCount": 249
   },
   {
     "id": "emi.shoshanas.hostwebpanel",
@@ -2277,7 +2277,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 46
+    "downloadCount": 47
   },
   {
     "id": "emi.shoshanas.maptargetselectguard",
@@ -2420,7 +2420,7 @@
         ]
       }
     ],
-    "downloadCount": 2477
+    "downloadCount": 2488
   },
   {
     "id": "FrontlineMap",
@@ -2478,7 +2478,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 7943
+    "downloadCount": 7951
   },
   {
     "id": "galaxy2_voice",
@@ -2746,7 +2746,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1072
+    "downloadCount": 1073
   },
   {
     "id": "IbisPowerFix",
@@ -2966,7 +2966,7 @@
         }
       }
     ],
-    "downloadCount": 18049
+    "downloadCount": 18067
   },
   {
     "id": "klawshout_voice",
@@ -3078,7 +3078,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 1330
+    "downloadCount": 1336
   },
   {
     "id": "KR-EW.67",
@@ -3111,7 +3111,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 3207
+    "downloadCount": 3208
   },
   {
     "id": "LaserRocketFix",
@@ -3143,7 +3143,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4604
+    "downloadCount": 4608
   },
   {
     "id": "LiveryManager",
@@ -3294,7 +3294,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1861
+    "downloadCount": 1863
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -4791,7 +4791,7 @@
         ]
       }
     ],
-    "downloadCount": 788
+    "downloadCount": 791
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -5194,7 +5194,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 1452
+    "downloadCount": 1453
   },
   {
     "id": "MFDCustomizer",
@@ -5302,7 +5302,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 1168
+    "downloadCount": 1170
   },
   {
     "id": "NO_Tactitools",
@@ -5497,7 +5497,7 @@
         ]
       }
     ],
-    "downloadCount": 13172
+    "downloadCount": 13179
   },
   {
     "id": "no-autopilot-mod",
@@ -5827,7 +5827,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 14590
+    "downloadCount": 14599
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -5859,7 +5859,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 353
+    "downloadCount": 354
   },
   {
     "id": "NO-MoarLasers",
@@ -6239,7 +6239,7 @@
         ]
       }
     ],
-    "downloadCount": 2203
+    "downloadCount": 2206
   },
   {
     "id": "NOLiveryPlus",
@@ -6409,7 +6409,7 @@
         ]
       }
     ],
-    "downloadCount": 235
+    "downloadCount": 237
   },
   {
     "id": "NOWinWingBridge",
@@ -6577,7 +6577,7 @@
         ]
       }
     ],
-    "downloadCount": 7061
+    "downloadCount": 7065
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -6628,7 +6628,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2873
+    "downloadCount": 2876
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -6966,7 +6966,7 @@
         ]
       }
     ],
-    "downloadCount": 0
+    "downloadCount": 5
   },
   {
     "id": "QoL",
@@ -7051,7 +7051,7 @@
         ]
       }
     ],
-    "downloadCount": 14957
+    "downloadCount": 14978
   },
   {
     "id": "RepairProgress",
@@ -7091,7 +7091,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 4940
+    "downloadCount": 4946
   },
   {
     "id": "RITA_RVWS",
@@ -7156,7 +7156,7 @@
         ]
       }
     ],
-    "downloadCount": 559
+    "downloadCount": 560
   },
   {
     "id": "RuntimeUnityEditor",
@@ -7189,7 +7189,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 123159
+    "downloadCount": 123172
   },
   {
     "id": "shoshanas.tvmissilehud",
@@ -7222,7 +7222,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 341
+    "downloadCount": 342
   },
   {
     "id": "skyeye_voice",
@@ -7389,7 +7389,7 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 4140
+    "downloadCount": 4147
   },
   {
     "id": "TargetCamControl",
@@ -7427,7 +7427,7 @@
         ]
       }
     ],
-    "downloadCount": 292
+    "downloadCount": 293
   },
   {
     "id": "TargetEstimator",
@@ -7459,7 +7459,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1896
+    "downloadCount": 1898
   },
   {
     "id": "TernionVaporTuner",
@@ -7531,7 +7531,7 @@
         ]
       }
     ],
-    "downloadCount": 1108
+    "downloadCount": 1113
   },
   {
     "id": "ThirdFaction",
@@ -7678,7 +7678,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 3018
+    "downloadCount": 3019
   },
   {
     "id": "ThirdPersonHudMapPipFix",
@@ -7719,7 +7719,7 @@
         ]
       }
     ],
-    "downloadCount": 352
+    "downloadCount": 354
   },
   {
     "id": "UnitCopyPaste",
@@ -7768,7 +7768,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 540
+    "downloadCount": 541
   },
   {
     "id": "Unrestricted-Weapons",
@@ -7809,7 +7809,7 @@
         ]
       }
     ],
-    "downloadCount": 2011
+    "downloadCount": 2016
   },
   {
     "id": "uuvr",
@@ -7872,7 +7872,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 4175
+    "downloadCount": 4179
   },
   {
     "id": "WeatherController",
@@ -7903,7 +7903,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 1801
+    "downloadCount": 1802
   },
   {
     "id": "WSOYappinator",
@@ -7936,7 +7936,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 7561
+    "downloadCount": 7564
   },
   {
     "id": "YawOnMouse",
