@@ -1,0 +1,39 @@
+{
+  "id": "HorusMod",
+  "displayName": "Horus Mod Starter",
+  "description": "A Game Master / free camera utility mod for Nuclear Option that lets the host or local player spawn aircraft, vehicles, ships, buildings, and scenery in real time.",
+  "tags": [
+    "QoL",
+    "Utility",
+    "Sandbox",
+    "Server",
+    "Camera"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ReapeRAlan/Horus-Mod"
+    },
+    {
+      "name": "steamGuide",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3738218049"
+    }
+  ],
+  "authors": [
+    "ReapeRAlan"
+  ],
+  "githubOwner": "ReapeRAlan",
+  "githubRepoName": "Horus-Mod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "Horus_Mod_Starter_v1.0.9.zip",
+      "downloadUrl": "https://github.com/ReapeRAlan/Horus-Mod/releases/download/v1.0.9/Horus_Mod_Starter_v1.0.9.zip",
+      "gameVersion": "0.33.3",
+      "version": "1.0.9",
+      "category": "Release",
+      "hash": "sha256:f6414b84d1df84c691cdb80fa9db75cce592e066d66fe807e9e379f36449c5fe"
+    }
+  ]
+}
