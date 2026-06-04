@@ -27,6 +27,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Horus_Mod_Starter_v1.1.0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33.3",
+      "downloadUrl": "https://github.com/ReapeRAlan/Horus-Mod/releases/download/v1.1.0/Horus_Mod_Starter_v1.1.0.zip",
+      "hash": "sha256:60dcc59d45371a9c2fa3ec907aeb8dbb6e23627ba78389617d842b03caf4fa87"
+    },
+    {
       "type": "plugin",
       "fileName": "Horus_Mod_Starter_v1.0.9.zip",
       "downloadUrl": "https://github.com/ReapeRAlan/Horus-Mod/releases/download/v1.0.9/Horus_Mod_Starter_v1.0.9.zip",
@@ -36,5 +45,5 @@
       "hash": "sha256:f6414b84d1df84c691cdb80fa9db75cce592e066d66fe807e9e379f36449c5fe"
     }
   ],
-  "downloadCount": 0
+  "downloadCount": 3
 }
