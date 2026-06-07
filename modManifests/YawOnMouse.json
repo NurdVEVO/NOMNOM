@@ -20,6 +20,15 @@
   "artifacts": [
     {
       "fileName": "YawOnMouse.dll",
+      "version": "2.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/muji2498/YawOnMouse/releases/download/2.0.0/YawOnMouse.dll",
+      "hash": "sha256:05acd15adf2b2aa455005bd045065a6ff2ca55bc3f5995ad3534bd69439055e5"
+    },
+    {
+      "fileName": "YawOnMouse.dll",
       "version": "1.1.1",
       "category": "release",
       "type": "plugin",
@@ -46,5 +55,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 885
+  "downloadCount": 888
 }
