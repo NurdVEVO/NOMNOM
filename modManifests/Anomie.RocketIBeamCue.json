@@ -1,7 +1,7 @@
 {
   "id": "Anomie.RocketIBeamCue",
   "displayName": "Anomie Rocket I-Beam Cue",
-  "description": "Creates a I-BEAM on laser rockets AGR-18 \u0026 AGR-24",
+  "description": "Creates a I-BEAM on laser rockets AGR-18 & AGR-24",
   "tags": [
     "Utility"
   ],
@@ -27,5 +27,6 @@
       "version": "0.1.0",
       "category": "Release"
     }
-  ]
+  ],
+  "downloadCount": 2
 }
