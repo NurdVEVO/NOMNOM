@@ -2,14 +2,20 @@
   "id": "FunnelGunSightMod",
   "displayName": "Funnel Gun Sight",
   "description": "EEGS-style gun funnel HUD overlay. Two curved walls show the bullet spray envelope in real time — sized to your target's wingspan, curved by your turn rate. When the target fits between the walls, you have a correct firing solution. Supports free-look and TrackIR with zero drift.",
-  "tags": ["mod", "HUD", "combat"],
+  "tags": [
+    "mod",
+    "HUD",
+    "combat"
+  ],
   "urls": [
     {
       "name": "info",
       "url": "https://github.com/mosdef31/NO-FunnelGunSight"
     }
   ],
-  "authors": ["mosdef31"],
+  "authors": [
+    "mosdef31"
+  ],
   "githubOwner": "mosdef31",
   "githubRepoName": "NO-FunnelGunSight",
   "autoUpdateArtifacts": "True",
@@ -23,5 +29,6 @@
       "category": "release",
       "hash": "sha256:4f8491978cc99c9bdd0c5be8a2e351613f8f0e34887c3954b852ef536ca00676"
     }
-  ]
+  ],
+  "downloadCount": 48
 }
